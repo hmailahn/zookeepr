@@ -17,6 +17,10 @@
 ## Usage
 
 ## Built-With
+* node.js
+* Express.js
+* css
+* html
 
 ## Screenshot
 ![image](https://github.com/hmailahn/zookeepr/blob/main/public/assets/images/screenshot.png)
