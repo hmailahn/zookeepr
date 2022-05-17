@@ -1,6 +1,6 @@
 # zookeepr
 
-![GitHub last commit](https://img.shields.io/github/last-commit/hmailahn/zookeppr) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hmailahn/zookeppr) ![GitHub watchers](https://img.shields.io/github/watchers/hmailahn/zookeppr?label=Watch&style=social) ![GitHub top language](https://img.shields.io/github/languages/top/hmailahn/zookeppr)
+![GitHub last commit](https://img.shields.io/github/last-commit/hmailahn/zookeepr) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hmailahn/zookeepr) ![GitHub watchers](https://img.shields.io/github/watchers/hmailahn/zookeepr?label=Watch&style=social) ![GitHub top language](https://img.shields.io/github/languages/top/hmailahn/zookeepr)
 
 ## Table of Contents:
 
